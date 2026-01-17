@@ -1,0 +1,8 @@
+name=input('Enter the name :')
+age=int(input('Enter the age :'))
+city=input('Enter the city :')
+degree=input('Enter the degree :')
+print(name)
+print(age)
+print(city)
+print(degree)
