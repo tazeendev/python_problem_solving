@@ -5,6 +5,7 @@ def password_check_length(password):
     length = len(password) >= 8
     upper = False
     lower = False 
+    # main ny idhar variab bnaya ha 
     digit = False
     special = False 
 

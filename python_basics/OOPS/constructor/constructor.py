@@ -7,3 +7,10 @@ class Student:
 s1 = Student("Ali" ,23)
 print(s1.names)
 print(s1.age)
+
+
+##
+<div class="card-info">
+        <h3>Prof Valentina Donzella</h3>
+        <p class="role">Technical Chair</p>
+        <p class="univ">Valeo Vision Systems</p>
